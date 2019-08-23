@@ -1,0 +1,23 @@
+{
+  "name": "demo-app01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jiwclub/demo-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jiwclub/demo-app/issues"
+  },
+  "homepage": "https://github.com/Jiwclub/demo-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
